@@ -1,6 +1,6 @@
 ---
 title: "Covid91 vaccine study Final2021"
-author: "Salena Bennett"
+author: "Salena Elaine Bennett"
 date: "Spring 2021"
 output: 
   html_document:
