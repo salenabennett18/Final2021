@@ -269,6 +269,6 @@ The Fisher Exact Test odds ratio 0.40:1, when taking the odds radio and computin
 Ultimately, the vaccine is 29% effective in the LGBTQ population, which is absolutely ineffective.
 
 
-# Discussion & Conclusion
+# Discussion & Conclusion 
 
 When looking at the 4 populations, we found that the two populations that had the highest rate of effectiveness were the Females at 67% and the DrugUsers at 60%. Both the Male population and the LGBTQ populations showed that the vaccine was not beneficial to them and were ineffective in protecting from contracting Covid-19, the Males had an 40% effectiveness, while the LGBTQ had a 29% effectiveness, which is not at all effective.
